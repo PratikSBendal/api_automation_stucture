@@ -1,0 +1,9 @@
+post_upload_document/UploadDocument.class
+post_utr_update/UtrUpdate.class
+post_create_customer/CreateCustomer.class
+jiffy_config/JiffyConfig.class
+jiffy_test/JiffyTest.class
+jiffy_mailreport/JiffyEmail.class
+post_pull_bureau/PullBureau.class
+jify_api/jify_api/App.class
+post_drawdown/DrawDown.class

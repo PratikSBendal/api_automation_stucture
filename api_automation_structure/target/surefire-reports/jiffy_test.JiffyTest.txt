@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: jiffy_test.JiffyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.278 s <<< FAILURE! - in jiffy_test.JiffyTest
+testRun(jiffy_test.JiffyTest)  Time elapsed: 0.025 s  <<< FAILURE!
+io.github.cdimascio.dotenv.DotEnvException: Could not find /home/pratik/Documents/automation_project/automation/jify_api/.env on the classpath
+	at jiffy_test.JiffyTest.testRun(JiffyTest.java:33)
+
